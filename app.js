@@ -3,6 +3,7 @@ function appPreload() {
 
 }
 
+
 async function appCreate() {
     // Initialize here
 
